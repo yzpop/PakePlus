@@ -1,8 +1,8 @@
 {
     "$schema": "https://schema.tauri.app/config/2",
-    "productName": "天天象棋",
+    "productName": "aa天天象棋",
     "version": "0.0.1",
-    "identifier": "com.TTXQ.app",
+    "identifier": "com.ttxq.mqds.app",
     "app": {
         "security": {
             "csp": null,
